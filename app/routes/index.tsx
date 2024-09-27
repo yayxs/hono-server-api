@@ -1,3 +1,4 @@
-export default function Top() {
+function Index() {
   return <div>index</div>
 }
+export default Index
