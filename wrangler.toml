@@ -1,0 +1,6 @@
+name = "hono-project"
+main = "src/index.ts"
+compatibility_date = "2023-12-01"
+
+[vars]
+# Add your environment variables here if needed 
