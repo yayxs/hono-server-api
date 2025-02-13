@@ -1,6 +1,9 @@
-name = "hono-project"
+name = "hono-server-api"
 main = "src/index.ts"
-compatibility_date = "2023-12-01"
+compatibility_date = "2025-02-13"
 
 [vars]
-# Add your environment variables here if needed 
+# 如果需要环境变量可以在这里添加
+
+[build]
+command = "pnpm run build" 

@@ -1,0 +1,14 @@
+### 获取所有 AI 工具
+GET http://localhost:3000/ai-tools
+
+### 按类型获取 AI 工具 - Browser-based
+GET http://localhost:3000/ai-tools/Browser-based
+
+### 按类型获取 AI 工具 - Extension
+GET http://localhost:3000/ai-tools/Extension
+
+### 按类型获取 AI 工具 - AI software engineer
+GET http://localhost:3000/ai-tools/AI software engineer
+
+### 测试不存在的类型
+GET http://localhost:3000/ai-tools/NonExistentType 
