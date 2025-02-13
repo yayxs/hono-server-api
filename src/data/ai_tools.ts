@@ -151,7 +151,13 @@ export const aiTools: AiTool[] = [
     company: '',
     howToUseType: 'Browser-based',
   },
-
+  {
+    whatsTheName: 'Devv Builder',
+    urlLink: 'https://devv.ai/zh/build',
+    description: 'You can think of it as the backend version of Bolt.new / Lovable.',
+    company: '',
+    howToUseType: 'Browser-based',
+  },
   {
     whatsTheName: 'sitebrew.ai',
     urlLink: 'https://www.sitebrew.ai/',
