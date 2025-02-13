@@ -1,9 +1,0 @@
-name = "hono-server-api"
-main = "src/index.ts"
-compatibility_date = "2025-02-13"
-
-[vars]
-# 如果需要环境变量可以在这里添加
-
-[build]
-command = "pnpm run build" 
